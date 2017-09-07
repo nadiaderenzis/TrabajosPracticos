@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1504796479 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1504796440 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1504796479 c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon1\funciones.h
+
+1504795879 c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon1\validaciones.h
+
+1504795879 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
