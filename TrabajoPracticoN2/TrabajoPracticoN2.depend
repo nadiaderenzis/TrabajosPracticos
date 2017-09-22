@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1492992986 source:c:\users\dem\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492992546 c:\users\dem\desktop\tp_2_cascara\funciones.h
+
+1492383595 source:c:\users\dem\desktop\tp_2_cascara\estructuras.c
+
+1492981592 source:c:\users\dem\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1492882231 c:\users\dem\desktop\tp_2_cascara\estructuras.h
+
+1492884485 c:\users\dem\desktop\tp_2_cascara\utn.h
+
+1492993304 source:c:\users\dem\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1493227341 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1492884485 c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\utn.h
+
+1493227285 c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+
+1492981592 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1493227310 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1493227342 source:d:\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1492884486 d:\tp_2_cascara\tp_2_cascara\utn.h
+
+1493227286 d:\tp_2_cascara\tp_2_cascara\funciones.h
+
+1493227430 source:d:\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492981594 source:d:\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1493227342 source:c:\users\nderenzis\documents\laboratorio1\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1492884486 c:\users\nderenzis\documents\laboratorio1\tp_2_cascara\utn.h
+
+1493227286 c:\users\nderenzis\documents\laboratorio1\tp_2_cascara\funciones.h
+
+1493227430 source:c:\users\nderenzis\documents\laboratorio1\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492981594 source:c:\users\nderenzis\documents\laboratorio1\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1493227342 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1492884486 c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon2\utn.h
+
+1506107141 c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon2\funciones.h
+
+1493227430 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492981594 source:c:\users\nderenzis\documents\laboratorio1\trabajospracticos\trabajopracticon2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
